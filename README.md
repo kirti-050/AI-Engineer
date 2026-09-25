@@ -11,6 +11,7 @@ My daily learning log following the **"AI Engineer"**. Each folder holds the not
 | 3 | Tokens — what they are, why they matter, cost & limits | [`03-tokens`](./03-tokens) |
 | 4 | Structured output with Pydantic + JSON | [`04-pydantic-json`](./04-pydantic-json) |
 | 5 | Mini project: Resume ↔ Job Description matcher | [`05-resume-parser`](./05-resume-parser) |
+| 6 | Prompt Engineering — Role, Task, Constraints, Output Format, Few-shot, Fallback | [`06-prompt-engineering`](./06-prompt-engineering) |
 
 ## Setup
 
