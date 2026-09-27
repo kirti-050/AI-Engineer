@@ -12,6 +12,7 @@ My daily learning log following the **"AI Engineer"**. Each folder holds the not
 | 4 | Structured output with Pydantic + JSON | [`04-pydantic-json`](./04-pydantic-json) |
 | 5 | Mini project: Resume ↔ Job Description matcher | [`05-resume-parser`](./05-resume-parser) |
 | 6 | Prompt Engineering — Role, Task, Constraints, Output Format, Few-shot, Fallback | [`06-prompt-engineering`](./06-prompt-engineering) |
+| 7 | ReAct (Reasoning + Action) — LLM + Tools, the ReAct loop, tool chaining | [`07-react`](./07-react) |
 
 ## Setup
 
