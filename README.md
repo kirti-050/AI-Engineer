@@ -15,6 +15,7 @@ My daily learning log following the **"AI Engineer"**. Each folder holds the not
 | 7 | ReAct (Reasoning + Action) — LLM + Tools, the ReAct loop, tool chaining | [`07-react`](./07-react) |
 | 8 | Prompt Chaining — breaking complex tasks into ordered LLM steps, vs. ReAct | [`08-prompt-chaining`](./08-prompt-chaining) |
 | 9 | Streaming — chunks, stream=True, when to stream vs. not (human vs. code consumers) | [`09-streaming`](./09-streaming) |
+| 10 | RAG (Retrieval Augmented Generation) — knowledge base, keyword retrieval, why it breaks | [`10-rag`](./10-rag) |
 
 
 ## Setup
