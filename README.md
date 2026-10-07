@@ -16,6 +16,7 @@ My daily learning log following the **"AI Engineer"**. Each folder holds the not
 | 8 | Prompt Chaining — breaking complex tasks into ordered LLM steps, vs. ReAct | [`08-prompt-chaining`](./08-prompt-chaining) |
 | 9 | Streaming — chunks, stream=True, when to stream vs. not (human vs. code consumers) | [`09-streaming`](./09-streaming) |
 | 10 | RAG (Retrieval Augmented Generation) — knowledge base, keyword retrieval, why it breaks | [`10-rag`](./10-rag) |
+| 11 | Embedding — vectors, semantic meaning vs. keyword matching, cosine similarity | [`11-embedding`](./11-embedding) |
 
 
 ## Setup
@@ -26,7 +27,7 @@ Each script expects a `.env` file (not committed) with:
 GROQ_API_KEY=your_key_here
 ```
 
-Install dependencies as you go — this repo doesn't pin a single requirements file yet since it's growing lecture by lecture. Rough list so far: `groq`, `python-dotenv`, `pydantic`, `pypdf`, `python-docx`.
+Install dependencies as you go — this repo doesn't pin a single requirements file yet since it's growing lecture by lecture. Rough list so far: `groq`, `python-dotenv`, `pydantic`, `pypdf`, `python-docx`, `numpy`, `sentence_transformers`.
 
 ## About
 
