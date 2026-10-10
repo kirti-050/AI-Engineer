@@ -17,6 +17,7 @@ My daily learning log following the **"AI Engineer"**. Each folder holds the not
 | 9 | Streaming — chunks, stream=True, when to stream vs. not (human vs. code consumers) | [`09-streaming`](./09-streaming) |
 | 10 | RAG (Retrieval Augmented Generation) — knowledge base, keyword retrieval, why it breaks | [`10-rag`](./10-rag) |
 | 11 | Embedding — vectors, semantic meaning vs. keyword matching, cosine similarity | [`11-embedding`](./11-embedding) |
+| 12 | Build Your First RAG System — combining retrieval + embedding into a working pipeline | [`12-first-rag-system`](./12-first-rag-system) |
 
 
 ## Setup
