@@ -18,7 +18,7 @@ My daily learning log following the **"AI Engineer"**. Each folder holds the not
 | 10 | RAG (Retrieval Augmented Generation) — knowledge base, keyword retrieval, why it breaks | [`10-rag`](./10-rag) |
 | 11 | Embedding — vectors, semantic meaning vs. keyword matching, cosine similarity | [`11-embedding`](./11-embedding) |
 | 12 | Build Your First RAG System — combining retrieval + embedding into a working pipeline | [`12-first-rag-system`](./12-first-rag-system) |
-
+| 13 | Vector Database with Qdrant: why vector DBs, how data is stored (collections, points, payload), and a full RAG pipeline using Qdrant Cloud + Groq | [`13-vector-database-qdrant`](./13-qdrant-vectorDB) |
 
 ## Setup
 
