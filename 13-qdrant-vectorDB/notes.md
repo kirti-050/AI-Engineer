@@ -78,7 +78,3 @@ Knowledge Base (text)
 - Deleting and recreating the collection each run keeps the demo clean but wipes persistence. Remove that step when you want data to persist.
 - Search returns `score` (cosine similarity) + payload; only the payload text goes to the LLM.
 - "Answer using only the information provided" in the prompt keeps the LLM grounded in the retrieved context.
-
-## 9. Bug to Fix in Part 12
-
-The context loop has a typo: `for resuslt in results` but uses `result.payload`. It should be `for result in results`, otherwise you get a `NameError`.
