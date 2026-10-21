@@ -19,6 +19,7 @@ My daily learning log following the **"AI Engineer"**. Each folder holds the not
 | 11 | Embedding — vectors, semantic meaning vs. keyword matching, cosine similarity | [`11-embedding`](./11-embedding) |
 | 12 | Build Your First RAG System — combining retrieval + embedding into a working pipeline | [`12-first-rag-system`](./12-first-rag-system) |
 | 13 | Vector Database with Qdrant: why vector DBs, how data is stored (collections, points, payload), and a full RAG pipeline using Qdrant Cloud + Groq | [`13-vector-database-qdrant`](./13-qdrant-vectorDB) |
+| 14 | Filters & HNSW — how HNSW makes vector search fast, payload indexes, and filtering search results in Qdrant with must / must_not / should | [`14-filters-and-hnsw`](./14-filters-and-hnsw) |
 
 ## Setup
 
