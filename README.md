@@ -28,7 +28,7 @@ Each script expects a `.env` file (not committed) with:
 GROQ_API_KEY=your_key_here
 ```
 
-Install dependencies as you go — this repo doesn't pin a single requirements file yet since it's growing lecture by lecture. Rough list so far: `groq`, `python-dotenv`, `pydantic`, `pypdf`, `python-docx`, `numpy`, `sentence_transformers`.
+Install dependencies as you go — this repo doesn't pin a single requirements file yet since it's growing lecture by lecture. Rough list so far: `groq`, `python-dotenv`, `pydantic`, `pypdf`, `python-docx`, `numpy`, `sentence_transformers`, `qdrant-client`.
 
 ## About
 
