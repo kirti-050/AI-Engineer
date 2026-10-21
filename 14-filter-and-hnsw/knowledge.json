@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Employees receive 24 days of paid leave per year.",
+    "category": "leave",
+    "is_active": true
+  },
+  {
+    "text": "Employees work from the office on Tuesday, Wednesday and Thursday.",
+    "category": "workplace",
+    "is_active": true
+  },
+  {
+    "text": "Monday and Friday are optional work-from-home days.",
+    "category": "workplace",
+    "is_active": true
+  },
+  {
+    "text": "Employees receive Rs 3000 per month for gym reimbursement.",
+    "category": "reimbursement",
+    "is_active": true
+  },
+  {
+    "text": "Employees can claim Rs 2000 per month for home internet.",
+    "category": "reimbursement",
+    "is_active": true
+  },
+  {
+    "text": "Employees have a 90 day notice period.",
+    "category": "career",
+    "is_active": true
+  }
+]
